@@ -1,5 +1,9 @@
-class {
-i=10
-j=20
+class welcome{
+//task-120 changes
+x=10
+y=20
+main()
+  {
+ }
 
 }
