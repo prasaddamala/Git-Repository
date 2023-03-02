@@ -1,1 +1,1 @@
-db user = ashokit
+database user = ashokit
