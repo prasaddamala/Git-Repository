@@ -1,1 +1,1 @@
-batabase user = ashokit
+database user = ashokit
