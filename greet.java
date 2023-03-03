@@ -1,4 +1,3 @@
 welcome()
 {
-welcome to greet
 }
